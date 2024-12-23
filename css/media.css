@@ -1,0 +1,38 @@
+@media only screen and (max-width: 600px) {
+    .img_sn {
+      display: none;
+    }
+    .login_signup_textfield{
+        width: 300px;
+    }
+    .centerCol{
+        display: none;
+    }
+    .centerCol_3{
+        display: none;
+    }
+    .centerCol_2{
+        width: 350px;
+    }
+    .navbar_search{
+        width: 100px;
+    }
+    .icon-bar{
+        display: none;
+    }
+    .fa {
+        text-emphasis: none;
+    }
+    .coverImg{
+        width: 300px;
+    }
+    .home_n{
+        display: none;
+    }
+    .notifications_n{
+        display: none;
+    }
+    .messages_n{
+        display: none;
+    }
+}
